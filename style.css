@@ -1,0 +1,409 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+ #one{
+    background-image: url("img/new/subaru-brz-2025-3840x2160-19419.jpg");
+    height: 100vh;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+} 
+
+
+#a0{
+    border: 1px solid rgb(74, 74, 215);
+    border-radius: 5px;
+    background-color: rgb(74, 74, 215);
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: white;
+    text-transform: capitalize;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: capitalize;
+    position: absolute;
+    top: 590px;
+    left: 500px;
+
+
+}
+
+#l0{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color:white;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: rgb(0, 0, 0);
+    text-transform: capitalize;
+    position: absolute;
+    top: 590px;
+    left: 700px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+#a{
+    font-size: 50px;
+    text-decoration: none;
+    color: white;
+    font-family:cursive;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+}
+
+#p1{
+    position: absolute;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    top: 155px;
+    left: 590px;
+}
+
+#h1{
+    position: absolute;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    top: 90px;
+    left: 550px;
+    
+}
+
+#p2{
+    position: absolute;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    top: 785px;
+    left: 550px;
+}
+
+#h2{
+    position: absolute;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    top: 720px;
+    left: 575px;
+    
+}
+
+#p3{
+    position: absolute;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    top: 1500px;
+    left: 575px;
+}
+
+#h3{
+    position: absolute;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    top: 1430px;
+    left: 530px;
+    
+}
+
+#p4{
+    position: absolute;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    top: 2150px;
+    color: black;
+    left: 590px;
+}
+
+#h4{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    top: 2070px;
+    left: 550px;
+    
+}
+
+#p5{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    top: 2850px;
+    left: 590px;
+}
+
+#h5{
+    position: absolute;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    top: 2770px;
+    left: 550px;
+    
+}
+
+#p6{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    top: 3490px;
+    left: 590px;
+}
+
+#h6{
+    position: absolute;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    top: 3420px;
+    left: 530px;
+    
+}
+#two{
+    background-image: url("img/porsche-911-carrera-3840x2160-21141.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+}
+
+
+#a1{
+    border: 1px solid rgb(74, 74, 215);
+    border-radius: 5px;
+    background-color: rgb(74, 74, 215);
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: white;
+    text-transform: capitalize;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: capitalize;
+    position: absolute;
+    top: 1270px;
+    left: 500px;
+
+
+}
+
+#l1{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color:white;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: rgb(0, 0, 0);
+    text-transform: capitalize;
+    position: absolute;
+    top: 1270px;
+    left: 700px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+#a2{
+    border: 1px solid rgb(74, 74, 215);
+    border-radius: 5px;
+    background-color: rgb(74, 74, 215);
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: white;
+    text-transform: capitalize;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: capitalize;
+    position: absolute;
+    top: 1930px;
+    left: 500px;
+
+
+}
+
+#l2{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color:white;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: rgb(0, 0, 0);
+    text-transform: capitalize;
+    position: absolute;
+    top: 1930px;
+    left: 700px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+#a3{
+    border: 1px solid rgb(74, 74, 215);
+    border-radius: 5px;
+    background-color: rgb(74, 74, 215);
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: white;
+    text-transform: capitalize;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: capitalize;
+    position: absolute;
+    top: 2590px;
+    left: 500px;
+
+
+}
+
+#l3{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color:white;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: rgb(0, 0, 0);
+    text-transform: capitalize;
+    position: absolute;
+    top: 2590px;
+    left: 700px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+#a4{
+    border: 1px solid rgb(74, 74, 215);
+    border-radius: 5px;
+    background-color: rgb(74, 74, 215);
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: white;
+    text-transform: capitalize;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: capitalize;
+    position: absolute;
+    top: 3250px;
+    left: 500px;
+
+
+}
+ 
+#l4{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color:white;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: rgb(0, 0, 0);
+    text-transform: capitalize;
+    position: absolute;
+    top: 3250px;
+    left: 700px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+
+#a5{
+    border: 1px solid rgb(74, 74, 215);
+    border-radius: 5px;
+    background-color: rgb(74, 74, 215);
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: white;
+    text-transform: capitalize;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: capitalize;
+    position: absolute;
+    top: 3910px;
+    left: 500px;
+
+}
+
+#l5{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color:white;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: rgb(0, 0, 0);
+    text-transform: capitalize;
+    position: absolute;
+    top: 3910px;
+    left: 700px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+} 
+#three{
+    background-image: url("img/new/aston-martin-3840x2160-20161\ \(1\).jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+}
+#four{
+    background-image: url("img/new/bmw-850i-luxury-3840x2160-19708.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+}
+
+#five{
+    background-image: url("img/new/rolls-royce-black-3840x2160-20526.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+}
+
+#six{
+    background-image: url("img/rolls-royce-3840x2160-19201.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+}
